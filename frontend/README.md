@@ -1,6 +1,6 @@
 # Aplicação Full Stack
 
-Aplicação que realiza o upload, edição e exclusão de imagens que conta com paginação, autenticação e autorização de usuários e entre outras features utilizando as seguintes ferramentas e/ou tecnologias:
+Aplicação que realiza o upload, edição e exclusão de imagens contando com paginação, autenticação e autorização de usuários e entre outras features utilizando as seguintes ferramentas e/ou tecnologias:
 
 <br/>
 
